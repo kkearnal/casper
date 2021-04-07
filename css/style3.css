@@ -1,0 +1,55 @@
+#faq_headline{
+    margin:20px auto;
+    width:100%;
+    padding:0;
+    color:#001C4A;
+    font-weight:700;
+    text-align:center;
+}
+
+#elig_text{
+    text-align:center;
+}
+
+
+
+
+
+.faqs{
+    margin:0 auto;
+    padding:0;
+    width:80%;
+    
+      display:flex;
+  flex-flow:column nowrap;
+  justify-content:center;
+  
+
+ 
+}
+
+.faqs_boxs{
+margin:0 auto;
+  margin:10px auto;
+  padding:0 18px;
+ width:80% !important;
+  color:#001C4A;
+  text-align:justify;
+ 
+
+  
+  
+}
+
+.faq_answers{
+    margin:0 auto;
+    margin-top:13px;
+    margin-bottom:13px;
+    padding:0 10px;
+    font-size:128%;
+    color:#001C4A;
+    width:80%;
+   text-align:justify;
+    
+}
+
